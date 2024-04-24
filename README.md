@@ -1,6 +1,5 @@
 # LinkingPuzzlu
-
-## ...
+![result](https://github.com/SayaTakeda/LinkingPuzzlu/blob/main/demovideo.gif)
 
 ## 使用技術
 ・C++
