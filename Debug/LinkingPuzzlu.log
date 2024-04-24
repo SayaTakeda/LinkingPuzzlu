@@ -1,0 +1,16 @@
+﻿  CubeController.cpp
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(178,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(187,35): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(227,38): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(284,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(286,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\たけださや\source\repos\LinkingPuzzlu\LinkingPuzzlu\CubeController.cpp(295,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  LinkingPuzzlu.vcxproj -> C:\Users\たけださや\source\repos\LinkingPuzzlu\Debug\LinkingPuzzlu.exe
+  0 個のファイルをコピーしました
+  ファイルが見つかりません - SDL2.dll”
+  C:\Users\たけださや\SDL2_image-2.8.2\lib\x86\SDL2_image.dll
+  C:\Users\たけださや\SDL2_image-2.8.2\lib\x86\optional\libavif-16.dll
+  C:\Users\たけださや\SDL2_image-2.8.2\lib\x86\optional\libtiff-5.dll
+  C:\Users\たけださや\SDL2_image-2.8.2\lib\x86\optional\libwebp-7.dll
+  C:\Users\たけださや\SDL2_image-2.8.2\lib\x86\optional\libwebpdemux-2.dll
+  5 個のファイルをコピーしました
